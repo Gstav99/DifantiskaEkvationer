@@ -18,12 +18,6 @@ namespace DifantiskaEkvationer
             Console.ReadLine();
         }
 
-        /// <summary>
-        /// Löser en difantisk ekvantion där c == 1
-        /// </summary>
-        /// <param name="a">första koefficienten</param>
-        /// <param name="b">andra koefficienten</param>
-        /// <returns></returns>
         static int[] GetFactors(int a, int b)
         {
             //Sparar värden från ekvationen för att lösa ekvationen senare och stoppar då rest = 0
