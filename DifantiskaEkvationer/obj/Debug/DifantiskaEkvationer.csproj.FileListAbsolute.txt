@@ -1,0 +1,7 @@
+C:\Users\Gustav\Documents\Visual Studio 2017\Projects\DifantiskaEkvationer\DifantiskaEkvationer\bin\Debug\DifantiskaEkvationer.exe.config
+C:\Users\Gustav\Documents\Visual Studio 2017\Projects\DifantiskaEkvationer\DifantiskaEkvationer\bin\Debug\DifantiskaEkvationer.exe
+C:\Users\Gustav\Documents\Visual Studio 2017\Projects\DifantiskaEkvationer\DifantiskaEkvationer\bin\Debug\DifantiskaEkvationer.pdb
+C:\Users\Gustav\Documents\Visual Studio 2017\Projects\DifantiskaEkvationer\DifantiskaEkvationer\obj\Debug\DifantiskaEkvationer.csprojResolveAssemblyReference.cache
+C:\Users\Gustav\Documents\Visual Studio 2017\Projects\DifantiskaEkvationer\DifantiskaEkvationer\obj\Debug\DifantiskaEkvationer.csproj.CoreCompileInputs.cache
+C:\Users\Gustav\Documents\Visual Studio 2017\Projects\DifantiskaEkvationer\DifantiskaEkvationer\obj\Debug\DifantiskaEkvationer.exe
+C:\Users\Gustav\Documents\Visual Studio 2017\Projects\DifantiskaEkvationer\DifantiskaEkvationer\obj\Debug\DifantiskaEkvationer.pdb
